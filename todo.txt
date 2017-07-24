@@ -1,0 +1,4 @@
+Implement .env
+Implement title changes on every page
+form validation
+show response errors
